@@ -9,3 +9,4 @@ If the file doesn't contain 400 numbers or contains some characters in between, 
 You can ignore new lines and white spaces.
 Add a tester function to check the behavior of your PHP function.
 Follow the guidelines discussed and shown in class to avoid losing points.
+NOTE: copy right is reserved for Yunlin Xie, please do not use my code for your personal course assignments.
